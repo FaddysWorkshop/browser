@@ -1,0 +1,24 @@
+{
+  "name": "@faddys/browser",
+  "version": "1.0.0",
+  "description": "Faddy's Playable Browser",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaddysWorkshop/browser.git"
+  },
+  "author": "Faddy Michel <faddy.michel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaddysWorkshop/browser/issues"
+  },
+  "homepage": "https://github.com/FaddysWorkshop/browser#readme",
+  "dependencies": {
+    "@faddys/scenarist": "^2.1.0",
+    "puppeteer": "^22.8.0"
+  }
+}
